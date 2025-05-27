@@ -1,4 +1,4 @@
-# 🎯 Multi-Object Tracking 평가 지표 (Evaluation Metrics)
+# Multi-Object Tracking 평가 지표 (Evaluation Metrics)
 
 ## 1. MOTA (Multi-Object Tracking Accuracy)
 
